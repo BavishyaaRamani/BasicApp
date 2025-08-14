@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{85FEAD4B-A7A8-4710-8A8B-C61D6E53B4E4}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicApp/Program.cs">
+    <Files>
+      <File FileName="BasicApp/Database/EmployeeDbContext.cs" Line="1" Column="1" />
+      <File FileName="BasicApp/Controllers/EmployeeController.cs" Line="1" Column="1" />
+      <File FileName="BasicApp/Models/Employee.cs" Line="1" Column="1" />
+      <File FileName="BasicApp/Program.cs" Line="1" Column="1" />
+      <File FileName="BasicApp/appsettings.json" Line="14" Column="1" />
+      <File FileName="BasicApp/Migrations/EmployeeDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="BasicApp/Migrations/20250421012943_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="BasicApp/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicApp" expanded="True">
+            <Node name="BasicApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Database" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BasicApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
